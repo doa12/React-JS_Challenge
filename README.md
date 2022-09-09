@@ -27,7 +27,7 @@
 
 <h3>📚Project</h3>
 <h5>- link: </h5>
-<h5>- javaScript</h5>
+<h5>- JavaScript, TypeScript</h5>
 <h5>- IDE: Visual Studio Code</h5>
 <h5>- API: </h5>
 
