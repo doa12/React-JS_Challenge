@@ -1,4 +1,4 @@
-# ⚛️React_JS_Challenge 23rd
+# ⚛️[23rd] React JS | Challenge Assignment
 
 - https://nomadcoders.co/reactjs-challenge
 - 2022.09.05 ~ 2022.09.18
