@@ -19,7 +19,7 @@
 <h5>✔️Mon ~ Wed | Assignment # 04 | Code Challenge</h5>
 
 <h5>✔️Thu ~ Fri | Assignment # 05 | Code Challenge</h5>
-
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/190874209-8c1f2214-fc38-48e8-9d9e-a71bbafa9605.gif"/>
 
 <h5>✔️Sat ~ Sun | Assignment # 06 | Project</h5>
 
